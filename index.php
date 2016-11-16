@@ -26,5 +26,6 @@
 	<div>
 		<img src="images/fordGT_large.jpg">
 	</div>
+	<footer>copyright becll 2016</footer>
 </body>
 </html>
