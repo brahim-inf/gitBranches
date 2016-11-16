@@ -14,5 +14,12 @@
 
 	<h2>items list</h2>
 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod	tempor incididunt ut labore et dolore magna aliqua. </p>
+
+	<ul>
+		<il>first item</il>
+		<il>second item</il>
+		<il>third item</il>
+		<il>forth item</il>
+	</ul>
 </body>
 </html>
