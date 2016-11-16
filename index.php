@@ -4,11 +4,6 @@
 	<title>page html</title>
 </head>
 <body>
-	this is the home page
-	<div>
-		<a href="#">
-			<img src="images/téléchargement (1).jpg" alt="">
-		</a>
-	</div>
+	<h2>this is the home page</h2>
 </body>
 </html>
