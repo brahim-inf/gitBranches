@@ -23,5 +23,8 @@
 			<li>forth item</li>
 		</ul>
 	</div>
+	<div>
+		<img src="images/fordGT_large.jpg">
+	</div>
 </body>
 </html>
